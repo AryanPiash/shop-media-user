@@ -189,40 +189,6 @@ function HomePage() {
                             </div>
                             <div className="col-lg-9 col-md-8">
                                 <div className="partners-area-right partners-area-slider">
-                                    {/* <div className="partners-area-slider owl-carousel no-dots no-arrows">
-                                        <div className="partner-slide">
-                                            <img src="assets/img/logos/slide-1.png" alt="" />
-                                        </div>
-                                        <div className="partner-slide">
-                                            <img src="assets/img/logos/slide-2.png" alt="" />
-                                        </div>
-                                        <div className="partner-slide">
-                                            <img src="assets/img/logos/slide-3.png" alt="" />
-                                        </div>
-                                        <div className="partner-slide">
-                                            <img src="assets/img/logos/slide-4.png" alt="" />
-                                        </div>
-                                        <div className="partner-slide">
-                                            <img src="assets/img/logos/slide-5.png" alt="" />
-                                        </div>
-                                        <div className="partner-slide">
-                                            <img src="assets/img/logos/slide-6.png" alt="" />
-                                        </div>
-                                        <div className="partner-slide">
-                                            <img src="assets/img/logos/slide-2.png" alt="" />
-                                        </div>
-                                        <div className="partner-slide">
-                                            <img src="assets/img/logos/slide-3.png" alt="" />
-                                        </div>
-                                        <div className="partner-slide">
-                                            <img src="assets/img/logos/slide-4.png" alt="" />
-                                        </div>
-                                        <div className="partner-slide">
-                                            <img src="assets/img/logos/slide-1.png" alt="" />
-                                        </div>
-                                    </div> */}
-
-
                                     <Slider {...settings}>
                                         <div>
                                             <img src={slide1} alt="" />
