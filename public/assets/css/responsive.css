@@ -1,0 +1,801 @@
+@media (min-width: 320px) and (max-width: 1400px) {
+    .form-wrapper {
+        width: 100%;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 320px) and (max-width: 1200px) {
+    .form-right {
+        padding: 65px 40px;
+    }
+
+
+    .form-thumb-wrapper {
+        height: 685px;
+        padding: 10px;
+    }
+
+    .form-left {
+        padding: 53px 40px;
+    }
+
+    .form-title {
+        padding-bottom: 32px;
+    }
+
+
+    .or {
+        margin-top: 8px;
+        margin-bottom: 28px;
+    }
+
+    .or span {
+        font-size: 17px;
+    }
+
+    .form-input {
+        margin-bottom: 23px;
+    }
+
+    .form-submit-btn {
+        padding-top: 25px;
+        padding-bottom: 15px;
+    }
+
+
+
+
+
+
+
+
+
+    .header-nav ul li a {
+        font-size: 17px;
+        line-height: 22px;
+        margin-right: 35px;
+    }
+
+    .header-btns a:first-child {
+        margin-left: 5px !important;
+    }
+
+    .header-btns a {
+        margin-left: 18px;
+        width: 130px;
+        height: 52px;
+        font-size: 18px;
+    }
+
+    .header-logo {
+        max-width: 236px;
+    }
+
+    .hero-content h3 {
+        font-size: 38px;
+        min-height: 115px;
+    }
+
+
+
+    .header {
+        padding: 22px 0;
+    }
+
+
+    .hero-area {
+        padding-top: 50px;
+        padding-bottom: 46px;
+    }
+
+
+    .hero-shape-1 {
+        max-width: 440px;
+    }
+
+    .hero-shape-2 {
+        max-width: 435px;
+    }
+
+    .hero-wrapper {
+        padding: 47px 55px;
+        padding-top: 150px;
+    }
+
+    .hero-form-input .form-select {
+        height: 54px;
+        padding: 0 25px;
+        padding-right: 25px;
+        font-size: 16px;
+        line-height: 56px;
+    }
+
+    .hero-form-input .form-control {
+        height: 54px;
+        font-size: 16px;
+        line-height: 20px;
+        padding: 0 39px;
+        padding-right: 20px;
+    }
+
+    .hero-form-submit button {
+        height: 54px;
+    }
+
+    .hero-form-input .form-select.has-ex-padding {
+        padding-left: 39px;
+    }
+
+
+    .partners-area-title h4 {
+        font-size: 22px;
+        line-height: 45px;
+    }
+
+    .partners-area-right {
+        padding-right: 15px;
+    }
+
+    .partners-area {
+        padding-top: 25px;
+        padding-bottom: 65px;
+    }
+
+    .common-content-title p {
+        font-size: 22px;
+        line-height: 38px;
+    }
+
+    .common-content h3 {
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+
+    .common-content ul li {
+        font-size: 20px;
+        margin-bottom: 14px;
+    }
+
+    .common-content p {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .common-btn {
+        font-size: 21px;
+        padding: 13px 37px;
+    }
+
+    .common-content-btn {
+        padding-top: 18px;
+    }
+
+    .common-content {
+        padding: 0 20px;
+    }
+
+    .hero-form {
+        padding-top: 35px;
+    }
+
+    .sectiont-title h3 {
+        font-size: 30px;
+    }
+
+
+    .company-area {
+        padding-top: 85px;
+        padding-bottom: 82px;
+    }
+
+    .company-slider-wrapper {
+        max-width: 835px;
+    }
+
+    .newsletter-title h3 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .newsletter-form form .common-btn {
+        width: 160px;
+        height: 57px;
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+
+
+    .newsletter-form form .form-control {
+        height: 57px;
+        padding: 0 25px;
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+
+    .newsletter-area {
+        padding: 48px 0;
+    }
+
+
+    .footer-item h4 {
+        font-size: 26px;
+        margin-bottom: 20px;
+        padding-top: 10px;
+    }
+
+    .footer-item ul li a {
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+
+    .footer-contact a {
+        font-size: 20px;
+        margin-bottom: 11px;
+    }
+
+    .footer-logo {
+        max-width: 225px;
+        margin-bottom: 22px;
+    }
+
+    .footer {
+        padding-top: 85px;
+    }
+
+    .footer-social {
+        padding-left: 20px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+@media (min-width: 320px) and (max-width: 991px) {
+
+    .form-right {
+        padding: 55px 30px;
+        width: 45%;
+        display: flex;
+        align-items: center;
+    }
+
+    .form-left {
+        padding: 54px 30px;
+        width: 55%;
+    }
+
+    .form-title h3 {
+        font-size: 38px;
+        line-height: 50px;
+        margin-bottom: 15px;
+    }
+
+    .form-title {
+        padding-bottom: 25px;
+    }
+
+    .form-option-btns button {
+        height: 50.1px;
+        margin-bottom: 13px;
+    }
+
+    .or span {
+        font-size: 16px;
+    }
+
+    .form-thumb-wrapper {
+        height: 570px;
+        padding: 4px;
+    }
+
+
+    .header-logo {
+        max-width: 200px;
+    }
+
+
+    .header-right {
+        display: none !important;
+    }
+
+    .menu-open {
+        display: block;
+    }
+
+    .hero-area {
+        padding-top: 45px;
+        padding-bottom: 42px;
+    }
+
+    .menu-open:hover {
+        color: #ebaa24;
+    }
+
+
+
+
+    .header-btns a {
+        margin: 0 !important;
+        margin-bottom: 20px !important;
+        border: 1px solid #ebaa24;
+        margin-left: 22px !important;
+    }
+
+
+    .header-btns a:first-child {
+        margin-left: 23px !important;
+    }
+
+    .header-btns {
+        padding-top: 57px;
+    }
+
+    .header {
+        padding: 20px 0;
+    }
+
+    .hero-shape-1 {
+        max-width: 365px;
+    }
+
+    .hero-shape-2 {
+        max-width: 318px;
+    }
+
+
+
+    .hero-content h3 {
+        font-size: 30px;
+        min-height: 83px;
+    }
+
+
+
+
+    .hero-form {
+        padding-top: 30px;
+    }
+
+
+
+    .partners-area-title h4 {
+        font-size: 19px;
+        line-height: 32px;
+    }
+
+    .partners-area-right {
+        padding-right: 9px;
+    }
+
+    .common-content-title p {
+        font-size: 20px;
+        line-height: 36px;
+    }
+
+    .common-content h3 {
+        font-size: 23px;
+        margin-bottom: 18px;
+    }
+
+
+
+    .common-content {
+        padding: 0 4px;
+    }
+
+    .common-content ul li {
+        font-size: 18px;
+        margin-bottom: 12px;
+    }
+
+    .common-content ul li span {
+        min-width: 25px;
+        font-size: 19px;
+        margin-right: 4px;
+    }
+
+
+    .common-content p {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .common-content ul {
+        margin: 0;
+        padding-left: 6px;
+        list-style: none;
+        margin-bottom: 24px;
+        padding-top: 5px;
+    }
+
+    .common-content-btn {
+        padding-top: 10px;
+    }
+
+    .common-btn {
+        font-size: 18px;
+        padding: 13px 33px;
+    }
+
+    .common-item {
+        padding-top: 65px;
+    }
+
+    .sectiont-title h3 {
+        font-size: 24px;
+    }
+
+    .company-slider-wrapper {
+        max-width: 635px;
+    }
+
+    .newsletter-title h3 {
+        font-size: 24px;
+        line-height: 33px;
+    }
+
+    .newsletter-form form .common-btn {
+        width: 125px;
+        height: 54px;
+        font-size: 18px;
+        line-height: 26px;
+    }
+
+
+    .newsletter-form form .form-control {
+        height: 54px;
+        padding: 0 19px;
+        font-size: 18px;
+        line-height: 20px;
+    }
+
+
+    .footer-logo {
+        max-width: 190px;
+        margin-bottom: 21px;
+    }
+
+    .footer-contact a {
+        font-size: 17px;
+        margin-bottom: 11px;
+    }
+
+    .footer-contact a span {
+        margin-right: 10px;
+        min-width: 22px;
+    }
+
+    .footer-item ul li a {
+        font-size: 16px;
+        margin-bottom: 16px;
+    }
+
+    .footer-item h4 {
+        font-size: 22px;
+        margin-bottom: 25px;
+        padding-top: 10px;
+    }
+
+    .download-btns a {
+        margin-right: 10px;
+        margin-bottom: 15px;
+        margin-top: -9px;
+    }
+
+    .footer-social {
+        padding-left: 15px;
+    }
+
+    .copyright {
+        font-size: 16px;
+    }
+
+
+    .footer {
+        padding-top: 70px;
+    }
+
+
+
+
+
+
+
+
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+    .form-right {
+        display: none;
+    }
+
+    .form-left {
+        padding: 55px 40px;
+        width: 100%;
+        padding-bottom: 28px;
+    }
+
+    .form-title {
+        padding-bottom: 25px;
+    }
+
+
+    .partners-area-title {
+        width: 100%;
+        padding-left: 0;
+        text-align: center;
+        padding-bottom: 7px;
+    }
+
+    .hero-shape-2 {
+        max-width: 310px;
+        right: -69px;
+    }
+
+    .hero-shape-1 {
+        max-width: 315px;
+        left: -6px;
+    }
+
+    .hero-content h3 {
+        font-size: 25px;
+        min-height: 70px;
+    }
+
+    .hero-form {
+        padding-top: 17px;
+    }
+
+    .hero-wrapper {
+        padding: 45px 45px;
+        padding-top: 113px;
+    }
+
+
+
+
+    .common-content-title p {
+        font-size: 20px;
+        line-height: 31px;
+    }
+
+
+    .common-thumb {
+        margin-bottom: 30px;
+    }
+
+    .row.has-reverse {
+        flex-direction: column-reverse;
+    }
+
+    .newsletter-title {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .newsletter-area {
+        padding: 40px 0;
+    }
+
+    .newsletter-form form .common-btn {
+        width: 155px;
+        height: 54px;
+        font-size: 18px;
+        line-height: 26px;
+    }
+
+    .download-btns a {
+        margin-right: 20px;
+        margin-bottom: 15px;
+        margin-top: -7px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+@media (min-width: 320px) and (max-width: 575px) {
+    .terms-area {
+        padding: 70px 0;
+    }
+
+    .terms-title h3 {
+        padding-bottom: 14px; 
+        font-size: 25px;
+        line-height: 30px; 
+    }
+
+    .form-left {
+        padding: 45px 25px;
+        width: 100%;
+        padding-bottom: 28px;
+    }
+
+
+    .form-title h3 {
+        font-size: 30px;
+        line-height: 38px;
+        margin-bottom: 12px;
+    }
+
+
+    .form-title p {
+        font-size: 15px;
+        line-height: 23px;
+        letter-spacing: -0.02em;
+    }
+
+    .form-title {
+        padding-bottom: 22px;
+    }
+
+    .form-option-btns button {
+        height: 49.1px;
+        margin-bottom: 12px;
+    }
+
+    .or span {
+        font-size: 15px;
+    }
+
+    .or {
+        margin-top: 0px;
+        margin-bottom: 26px;
+    }
+
+    .form-input input.form-control {
+        height: 50px;
+        padding: 0 22px;
+        font-size: 13px;
+    }
+
+    .phone-input-group input.form-control {
+        padding-left: 84px;
+    }
+
+    .form-submit-btn button {
+        height: 48.18px;
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    .form-input {
+        margin-bottom: 20px;
+    }
+
+    .form-input-icon {
+        right: 20px;
+        bottom: 10px;
+    }
+
+    .header {
+        padding: 17px 0;
+    }
+
+
+    .hero-wrapper {
+        padding: 35px 30px;
+        border-radius: 23px;
+    }
+
+
+    .common-item {
+        padding-top: 55px;
+    }
+
+
+    .container {
+        padding: 0 18px;
+    }
+
+
+    .hero-content {
+        max-width: 360px;
+        margin: 0 auto;
+    }
+
+    .hero-content br {
+        display: none;
+    }
+
+
+    .hero-shape-1, .hero-shape-2 {
+        display: none;
+    }
+
+    .common-content-title p {
+        font-size: 18px;
+        line-height: 29px;
+    }
+
+    .sectiont-title h3 {
+        font-size: 22px;
+    }
+
+    .company-area {
+        padding-top: 80px;
+        padding-bottom: 70px;
+    }
+
+    .footer {
+        padding-top: 65px;
+    }
+
+
+    .download-btns a {
+        margin-right: 15px;
+        margin-bottom: 13px;
+        margin-top: -7px;
+    }
+
+    .copyright {
+        font-size: 15px;
+    }
+
+
+
+
+
+
+
+
+
+
+}

@@ -1,0 +1,67 @@
+.thums-up{
+    height: 100px;
+    width: 100px;
+    background: #EBAA24 !important;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    
+}
+.thums-up img {
+    position: relative;
+    top: -5px;
+}
+
+.status h2{
+    font-size: 24px;
+    font-weight: 700;
+    color: #000;
+    margin-top: 33px;
+    margin-bottom: 15px;
+}
+.status p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;  
+    margin-bottom: 37px;
+}
+
+.horizontal{
+    max-width: 600px;
+    margin: auto;
+    border: 1px solid #434343;
+}
+
+.access img{
+    margin: auto;
+    margin-bottom: 12px;
+    margin-top: 24px;
+}
+.access span{
+    font-size: 16px;
+    font-weight: 500;
+    color: #000;
+}
+.access p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+}
+.instruction span{
+    font-size: 16px;
+    font-weight: 500;
+    color: #000;
+}
+.instruction small{
+    font-size: 14px;
+    font-weight: 500;
+    color: #000;
+}
+
+ 
+@media screen and (max-width: 767px) {
+    
+    
+}

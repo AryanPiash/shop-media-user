@@ -1,0 +1,137 @@
+.sidebar {
+    width: 285px;
+    background-color: #000;
+    margin-top: 86px;
+    position: fixed;
+    color: White;
+    padding-right: 12px;
+    padding-left: 45px;
+}
+
+.home-aside {
+    background: #FFFFFF;
+    border: 2px solid #E7EBF2;
+    width: 280px;
+    padding: 20px 17px;
+    flex: 0 0 auto;
+    position: sticky;
+    top: 145px;
+    height: calc(100vh - 150px);
+}
+
+.sidebar-wrapper {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+    overflow-y: scroll;
+    height: 100%;
+}
+
+.sidebar-wrapper::-webkit-scrollbar {
+    display: none;
+}
+
+.form-input input {
+    width: 100%;
+    height: 43px;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    padding: 11px 10px;
+    color: #434343;
+    outline: none;
+}
+
+
+.form-input.has-icon input {
+    padding-left: 39px;
+}
+
+::-webkit-input-placeholder {
+    opacity: 1;
+    color: #434343;
+}
+
+::-moz-placeholder {
+    opacity: 1;
+    color: #434343;
+}
+
+:-ms-input-placeholder {
+    opacity: 1;
+    color: #434343;
+}
+
+::-ms-input-placeholder {
+    opacity: 1;
+    color: #434343;
+}
+
+::placeholder {
+    opacity: 1;
+    color: #434343;
+}
+
+.input-icon {
+    position: absolute;
+    left: 10px;
+    top: 6px;
+    padding: 0;
+    line-height: 1;
+}
+
+.form-input {
+    margin-bottom: 20px;
+}
+
+.label-text.text-xs {
+    font-size: 10px;
+    line-height: 14px;
+    letter-spacing: -0.02em;
+    color: #606060;
+    padding-top: 5px;
+}
+
+.select.select-bordered {
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+}
+
+.select-small {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    letter-spacing: -0.02em;
+
+    color: #000000;
+
+}
+
+.text-small {
+    font-size: 10px;
+    line-height: 13px;
+
+    text-align: right;
+    letter-spacing: -0.02em;
+
+    color: #606060;
+}
+
+.sidebar-open {
+    width: 28px;
+    line-height: 1.1;
+    height: 28px;
+    position: relative;
+    top: -2px;
+    display: none;
+    cursor: pointer;
+}
+
+
+
+.sidebar .searchbox {
+    display: none !important;
+}
+
+
+.form-control.form-input label {
+    margin: 0;
+}

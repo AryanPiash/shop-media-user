@@ -1,0 +1,33 @@
+.navbar {
+    background-color: #000;
+    height: 86px;
+    padding: 0 63px;
+    position: fixed; 
+    border-bottom: 1px solid rgba(243, 243, 243, 0.2);
+}
+
+.searchbox {
+    display: flex;
+    align-items: center;
+    width: 336px;
+    height: 43px;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 0 20px;
+    margin-left: 105px;
+}
+
+.menu ul { 
+    box-shadow: 1px 4px 10px #1f1e1e40;
+    border: 1px solid #ddd;
+}
+
+.country-select-text{font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: right;
+    letter-spacing: -0.02em;
+    
+    color: #FFFFFF;
+    
+    }

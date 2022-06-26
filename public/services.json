@@ -1,0 +1,76 @@
+[
+    {   "id": 1,
+        "title": "2X6",
+        "tag": "Newspaper",
+        "ammount": "68,818/Colunm",
+        "ratio": "2X6 Inches",
+        "location": "Nation Wide, Nation Wide",
+        "img": "https://i.ibb.co/xgqX33H/Rectangle-16.png"
+    },
+    {   "id": 2,
+        "title": "Right beside Wema bank",
+        "tag": "Billboard",
+        "ammount": "70,000/Month",
+        "ratio": "3X6 Meters",
+        "location": "Lagos Island, Lagos",
+        "img": "https://i.ibb.co/sy5Zfxn/Rectangle-16-1.png"
+    },
+    {   "id": 3,
+        "title": "15 MINS NEWS 10PM",
+        "tag": "Television",
+        "ammount": "25,000/Spot",
+        "ratio": "15 Mins",
+        "location": "Abuja, Abuja",
+        "img": "https://i.ibb.co/r2m51ts/Rectangle-16-2.png"
+    },
+
+
+    {   "id": 4,
+        "title": "2X6",
+        "tag": "Newspaper",
+        "ammount": "68,818/Colunm",
+        "ratio": "2X6 Inches",
+        "location": "Nation Wide, Nation Wide",
+        "img": "https://i.ibb.co/VpngF96/Rectangle-16-3.png"
+    },
+    {   "id": 5,
+        "title": "Right beside Wema bank",
+        "tag": "Billboard",
+        "ammount": "70,000/Month",
+        "ratio": "3X6 Meters",
+        "location": "Lagos Island, Lagos",
+        "img": "https://i.ibb.co/PGM20yJ/Rectangle-16-4.png"
+    },
+    {   "id": 6,
+        "title": "15 MINS NEWS 10PM",
+        "tag": "Television",
+        "ammount": "25,000/Spot",
+        "ratio": "15 Mins",
+        "location": "Abuja, Abuja",
+        "img": "https://i.ibb.co/Vx6rsSN/Rectangle-16-5.png"
+    },
+    {   "id": 3,
+        "title": "15 MINS NEWS 10PM",
+        "tag": "Television",
+        "ammount": "25,000/Spot",
+        "ratio": "15 Mins",
+        "location": "Abuja, Abuja",
+        "img": "https://i.ibb.co/r2m51ts/Rectangle-16-2.png"
+    },
+    {   "id": 2,
+        "title": "Right beside Wema bank",
+        "tag": "Billboard",
+        "ammount": "70,000/Month",
+        "ratio": "3X6 Meters",
+        "location": "Lagos Island, Lagos",
+        "img": "https://i.ibb.co/sy5Zfxn/Rectangle-16-1.png"
+    },
+    {   "id": 1,
+        "title": "2X6",
+        "tag": "Newspaper",
+        "ammount": "68,818/Colunm",
+        "ratio": "2X6 Inches",
+        "location": "Nation Wide, Nation Wide",
+        "img": "https://i.ibb.co/xgqX33H/Rectangle-16.png"
+    }
+]
